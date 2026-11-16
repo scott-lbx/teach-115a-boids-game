@@ -17,6 +17,7 @@
 | `tools\gen_host.py` | 大家 | 產生 `host_script.cs`；老師加 `--check` 先檢查學生檔 |
 | `tools\check\`、`examples\ParamBrain.cs` | 老師 | `--check` 的試跑程式與對手 |
 | `Boids_Game.gh` | 老師 | GH 定義（C# Script 元件與輸入） |
+| `archive\` | 老師 | 早期 Boids 初版（原 115a_biods repo，已併入），僅供查閱 |
 
 ## 規則
 
