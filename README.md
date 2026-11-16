@@ -1,5 +1,7 @@
 # boids_game：多人 Boids 競技場
 
+<!-- hero --><p align="center"><img src="docs/assets/hero.png" alt="teach-115a-boids-game" width="860"></p>
+
 10 位學生各寫一個 Boid 行為 class，老師的主程式負責場地、食物、出生、擊殺、縮圈與顏色，存活最多的隊伍獲勝。
 學生用 VS Code 編輯 `.cs`，GH 的 C# Script 用 `#load` 載入，用 Git 共同上傳。
 
